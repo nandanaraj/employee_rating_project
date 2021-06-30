@@ -1,0 +1,285 @@
+domain_name,employee_name,designation,start_date,end_date,total_days,total_working_days,total_leave_taken,work_completed
+Web Development Team,Sonet ,Team Lead,06/01/2021,06/30/2021,28,20,8,"Added footer section and try some routes
+Working with footer section and added some footer section pages
+Craete a todo app using hook concept
+Trying to push code to git hub
+Error occured when trying to merge push code in github
+Working with git and code clashed
+the codes pushed to github
+Working with mobikwik home page and add components more attractive
+Added component based on textfield onchange
+Added recharge responsive section and  Radeem pay back section
+Studying about git, download the file from github structure and started working
+Mutual Fund Responsive section completed
+Working with mutual fund responsive page
+Adding mutualfund page to new file structure
+Working with new file structure and added two pages
+Working with mutualFund page
+Working with react redux
+Added mobile recharge and bill section
+
+"
+Web Development Team,Ridwan,Team Member,06/01/2021,06/30/2021,28,19,9,"Changed all div components into FlexBox
+Cleared all routing codes of sajith. Set all the codes through AnyDesk.
+Completed whole project , codes are send to sajith
+completed mobikwik clone site, successfully pushed to git and created a heroku link
+Rework some components of mobikwik
+Almost completed components of mobikwik
+Changed all div components into FlexBox
+Rearranged the style codes in all pages
+added a new components in homepage
+Started a fresh app and did the file structure
+Completed file structure and push to git
+Completed the subpage of mobikwik
+Tried to recode subpages of mobikwik
+Continued with subpage of mobikwik
+Almost added footer components"
+Web Development Team,Aswin,Team Member,06/01/2021,06/30/2021,28,21,7,"Added Mobiles apps page in footer section and made responsive 
+Added about section and career section in mobikwik.
+Worked on Mobikwik Sitemap page,About Page,Contact Page
+Completed my sections in mobikwik pages
+Set routing of codes through anydesk sharing with sajith
+Continue Watching Git tutorials
+Watched redux tutorials (gets complicated) and watched Git tutorials (concept about gist)
+Studied react material ui concept through documentation and code sandbox.
+Worked on react material ui concept and coordinate with sajith through anydesk to correcting variation in styles of mobikwik
+Reworking on mobikwik to correcting the alignment
+Added Mobiles apps page in footer section and made responsive
+Worked on Zaakpay footerpages and made some sections responsive
+made some of sections in zaakpay page responsive
+Worked on local stores of mobikwik page
+Covering Basics of redux
+worked on zaakpay page
+Working on  Mobikwik payment gateway page
+Watching Tutorials of redux"
+Web Development Team,Sajith,Team Member,06/01/2021,06/30/2021,28,18,10,"Tried to add the links to header links in offers and deals page but its not rendering correctly
+Tried to add routes in header section of offers and deals page but component is not rendering
+correcting the slider controls late to update because of hospital cases
+corrected the small bugs in offers and deals and tried to create hosting environment with teammates
+Watched the tutorials of Git for resolving the conflicts while pushing code 
+watching tutorials of git to  work on open source and as a collaborator , understands the proper way of pushing and to resolve conflict
+Trying to understand the concept  of Redux with documents
+Added separate classes to   remove the style clashing issue and working on footer
+Tried to solve route issue on footer and not completed image will be uploaded late
+Tried to add the links to header links in offers and deals page but its not rendering correctly
+Completed the component containing the description of the product and code etc. and the see all component. Tried to add the actions of controls of slider but not working properly
+ried to add controls to sliders in offers&deals page but not working having issues in routes
+understanding the folder structure and added footer section on reworking  the mobikwick project
+Trying to understand the contextApi
+Tried to create a context for seperating data from the code  with previous project , not completed due an error
+Created the context api and its working
+Created offers and deals page "
+Web Development Team,Neethu,Team Member,06/01/2021,06/30/2021,20,17,3,"learn about Hooks concept in react js and doing examples
+Create login form project using Hooks concept in react js.
+create redirecting login to profile , then created sample counter program using Hooks concept in react js.
+created Contact App in react js (some error).
+error correction of contact app. Created sample program using usecontext method in hooks concept.
+rewind hooks concept and did a idle timer practical program in react js
+Today, learn about React API and watch the tutorial of Functional Component in react js.
+ Created a ui for user registration
+Today, continuation of Food Recipie App in React Js.
+continue the Food Recipie App.
+TODOAPP  completed and learn about the concept of routing in React JS. Then, doing sample calculator
+create Todoapp  in React js. Learn about Routing
+completed List and Keys in React Js and then learn about lifecycle method
+Today, Create a sample project and learn about onchange events and lists in React Js
+Doing sample project using React js . Learn about set and props then onclick events with examples.
+
+"
+Web Development Team,Neenu,Team Member,06/01/2021,06/30/2021,20,18,2,"created login form with hooks
+created registration form, rewind hooks concept, and did a counter program with hooks
+learned about class component and function component by comparing two and did programs by using both. Designed a calculator
+Completed Calculator project.
+cover the topics jsx, component, state and props.
+Did program using constructor and component API.
+completed component lifecycle and form handling in react js
+conditional rendering and introduction of list concept in react js
+list concept in react js
+created CURD app
+Created new project Contact Management Application
+"
+Web Development Team,Midhila,Team Member,06/01/2021,06/30/2021,17,15,2,"learn Hooks and custom hooks (Functional component)
+react login
+counter project,todoapp,login redirection error correction
+Css flex learn , start calculator app
+calculator project
+create a new project using react basic terminologies
+create a new project fetch API and print the details
+continue the recipes App .
+continue the recipes App .
+continue the app with conditional rendering
+pagination on recipes App
+"
+Android Development Team,Mubeena,Team Lead,06/01/2021,06/30/2021,28,27,1,
+Android Development Team,Sreelakshmi,Team Member,06/01/2021,06/30/2021,18,12,6,"Project: foodie user app Working in adding hotels and images in home screen
+ Working on a new screen  shared by team lead
+Working on a new screen
+Project: foodie user app
+Completed new sign in page.. Then try to add image gradient
+Trying to add hotels and images in home screen
+Trying to add hotels and images in home screen
+working in home screen to add hotels
+Trying to set gradient in user app login page
+Completed sign in using otp ui
+Completed new sign in.. Then reffer how to add image gradient as background.
+Attended meeting with teammates
+And discuss how to work and divide works.Then design pages."
+Android Development Team,Sultana,Team Member,06/01/2021,06/30/2021,28,16,12,"Project: Custom Screen Completed the given customized Screen
+Completed custom screen
+Working on checkbox in payment method
+Working on payment screen
+Completed custom screen
+Project:foodie user app
+ ompleted splash screen
+Working on home screen
+Working on splash screen
+Attended meeting with team mates and discussed about new work
+Setting designs for other screens
+Project: foodie user app
+Working in splashscreen"
+Android Development Team,Sajana,Team Member,06/01/2021,06/30/2021,28,24,4,"Project: foodie user app Working on menulist and trying to add ratings icon
+Custom Screen Completed the given customized Screen
+Completed the given Screen Added ratings to hotel in foodie userapp
+Added images in swiping screen of foodie user app
+Working on foodie user app...Trying to set navigation to all hotels...catch with error..
+Working on foodie user app...fixing errors
+Complete menu details for each hotels..
+stucked with navigation to address details...trying to fix it...modified other screens
+Trying to complete foodie user app
+Modified drawer screen
+Changed App name and icon
+Read horizontal scroll view properties
+Working on given screen
+Completed custom screen
+Trying to get details form backend to homescreen..
+Catch error while running
+Working on foodie user app homescreen
+Project: foodie user app
+Working on menulist and trying to add ratings icon...
+Working on cartscreen
+Working on adding  menulist
+Modified Homescreen
+Working on adding  menulist
+Modified menu list
+Added more items..
+Added address form
+Downloaded hotelapp
+Watched and learn to run with expo
+Adding menu list to a hotel
+Installed expo cli
+Trying to run the code
+"
+Android Development Team,Akhil,Team Member,06/01/2021,06/30/2021,28,19,9,"Project : Foodie Work :Added app launcher icon to all 3 apps in foodie project
+Updated app launcher icon to all 3 apps in foodie project
+Learned basics of Bloc architecture
+Server side script for uploading product image UI for choosing image from gallery and uploading to the server
+Upload food product's image along with details
+Added forgot password feature to foodie deliver app
+Bug fixes in foodie shop app
+React-native environment  set-up completed
+Read react native docs
+Watched some videos
+created a login UI in react-native
+Tried UI development in React-native
+Build a list view with simple animations in Flutter
+Added app launcher icon to all 3 apps in foodie project
+Added form validation in Foodie delivery boy App
+Changed network call UI error texts from fixed one to the actual errors
+Composed server side logic for forgot password feature implementation
+Added Password reset feature to the app
+Created and integrated OTP requesting screen
+Updated OTP requesting screen with error displaying
+UI completed - OTP verification screen
+Completed backend script for Password reset in admin app
+Learning State management in flutter
+Attended a meeting with team mates
+Composed a simple counter app with  Provider Package
+Added Password resetting feature to the app"
+Android Development Team,Sibin,Team Member,06/01/2021,06/30/2021,28,11,17,"Created screen with top tab navigation
+ modifying  screen with top tab navigation
+Project: Foodie user app(front-end)
+Project run successfully
+Trying to modify screens
+Project: Food_Restaurant app(front-end)
+Project run successfully in expo 
+Trying to modify screens.
+Project: foodie user app
+Attended meeting with team mates,discussed about
+ designs for the app"
+Android Development Team,Gopakumar,Team Member,06/24/2021,06/30/2021,6,6,0,"HTML web page creation
+CSS, web page creation"
+Digital Marketing Team,Dhanya,Team Member,06/01/2021,06/30/2021,27,22,5,"collected email address from linkedin
+Learned email marketing using MailChimp
+learned about blogging
+content  writing for website
+content writing for website
+content writing for website
+Content writing
+Content writing
+content writing
+content writing
+Learned content creation for Instagram story and post
+learned about social media marketing and website using wordpress
+Learned basics of Digital marketing
+Attended Google certification course fundamental of digital marketing
+Learned about Instagram marketing
+learned content marketing
+Learned about content marketing
+
+
+Learned email collection from linkedin
+
+"
+Digital Marketing Team,Shruthi,Team Member,06/01/2021,06/30/2021,14,9,5,"Gone through social media marketing
+Collected mails from LinkedIn.. created content for instagram post
+Blogging
+Going through content writing
+Content writing
+Content writing
+Content writing
+Content writing"
+Graphic Design Team,Dithu,Team Member,06/01/2021,06/30/2021,28,23,5,"Today I studied poster design.
+Today I studied poster design
+Today I studied UI/UX designing
+Today I practiced logo design.
+Today I practiced logo design for website
+Today I practiced banner design.
+Studied typography in photoshop and also did a small basic work using those tools (edited) 
+Practiced banner design and UI/UX web site design
+Today I studied banner design and UI/UX web site design
+Studied website design
+Today I studied Adobe XD tools
+Studied about Adobe Illustrator tools
+Sports poster
+oday I practiced logo design."
+Data Analyst Team,Aquib,Team Lead,06/01/2021,06/30/2021,28,20,8,"started election database
+Data Collection for project
+data collection for project
+data collection for project
+employee rating project
+2012 Federal Election Commission Database
+USDA Food Database manipulations
+completede 14.1 1.USA.gov Data from Bitly  ,Counting Time Zones in Pure Python
+Bi- variate Analysis
+Uni Variate Analysis
+movie dataset
+Counting Time Zones with pandas
+EDA in movielens dataset
+working on exmaple dataset"
+Data Analyst Team,Nandana,Team Member,06/01/2021,06/30/2021,28,22,6,"completed Reshaping and concatnation
+data collection (employee rating project )
+Data Collection in progress
+Data Collection for project in progress
+data collection for project
+Data Collection for project in progress : collecting data from slack
+Data Collection for project in progress 
+Data Collection for project in progress 
+Chapter 14 Completed
+EDA : Movie  dataset
+FEC  dataset
+FEC dataset analysis
+EDA cont
+Analysing datasets
+USDA Food Dataset
+USDA Food dataset
+FEC dataset analysis"
